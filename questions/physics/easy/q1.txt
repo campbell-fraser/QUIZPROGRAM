@@ -1,0 +1,8 @@
+Q1. What is the equation for density?
+
+a. d = m/v
+b. d = v*m
+c. d = a/v
+d. d = m-b
+
+Answer: 

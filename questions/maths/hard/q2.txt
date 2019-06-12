@@ -1,0 +1,1 @@
+Q2. What is the 5th term of the sequence n^2+3n = 

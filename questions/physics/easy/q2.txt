@@ -1,0 +1,10 @@
+Q2. Todd has an apple. He throws it at Brad at a speed of 685m/s. 
+    It takes 5 seconds to hit Brad square in the face.
+    How far away is Brad?
+
+a. 3500m
+b. 4260m
+c. 3425m
+d. 100m
+
+Answer: 
